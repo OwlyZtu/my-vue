@@ -1,0 +1,3 @@
+site-key = 6LfP5LAqAAAAAG5ks5DjR8nVcU-2ALdrYqeprNSQ
+
+secret-key = 6LfP5LAqAAAAANrqdlSWxm7y0y-xmEpq1nl4qcuR

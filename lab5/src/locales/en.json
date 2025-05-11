@@ -1,0 +1,55 @@
+{
+  "title": "General Testing",
+  "navigation": {
+    "next": "Continue",
+    "previous": "Previous",
+    "submit": "Finish"
+  },
+  "completion": {
+    "testCompleted": "Test completed!",
+    "unansweredQuestions": "Please answer all questions. Unanswered questions: ",
+    "correctAnswers": "Number of correct answers: ",
+    "successPercentage": "Success percentage: "
+  },
+  "validation": {
+    "required": "This field is required",
+    "selectAtLeastOne": "Select at least one option",
+    "selectAnOption": "Select an option",
+    "validDate": "Enter a valid date",
+    "minLength": "Must be at least {min} characters",
+    "minAge": "You must be 18 years or older",
+    "email": "Enter a valid email",
+    "phone": "Phone number must be 10 digits"
+  },
+  "userForm": {
+    "name": "Name",
+    "age": "Age",
+    "email": "Email",
+    "phone": "Phone number",
+    "gender": "Gender",
+    "selectGender": "Your gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Hamster",
+    "startTest": "Start test"
+  },
+  "questionForm": {
+    "question": "Question",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Continue",
+    "finish": "Finish"
+  },
+  "questions": {
+    "ocean": "Which is the largest ocean?",
+    "mammals": "Which of the following are mammals?",
+    "moonsOfEarth": "How many moons does Earth have?",
+    "sunStar": "Is the Sun a star?",
+    "berlinWallFall": "When did the Berlin Wall fall?",
+    "painter": "Who is a famous painter?",
+    "programmingLanguages": "Which of these are programming languages?",
+    "internetBenefits": "What are some benefits of the internet?",
+    "firstIphone": "When was the first iPhone released?",
+    "elementsPeriodicTable": "How many elements are there in the periodic table?"
+}
+}
